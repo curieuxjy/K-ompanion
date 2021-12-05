@@ -5,12 +5,10 @@ Hackathon Repository
 
 ## [Training Log and Result](https://wandb.ai/curieuxjy/YOLOv5?workspace=user-curieuxjy) - WandB
 
-<img src="assets/hdware1.jpg" width="300"/>
-<img src="assets/hdware2.jpg" width="300"/>
-<img src="assets/cad1.png" width="250"/>
-<img src="assets/cad2.png" width="250"/>
-<img src="assets/cad3.png" width="250"/>
-<img src="assets/cad4.png" width="250"/>
+|<img src="assets/hdware1.jpg" width="300"/>|<img src="assets/hdware2.jpg" width="300"/>|
+|-|-|
+|<img src="assets/cad1.png" width="250"/>|<img src="assets/cad2.png" width="250"/>|
+|<img src="assets/cad3.png" width="250"/>|<img src="assets/cad4.png" width="250"/>|
 
 ## Goal : Dog Action dataset + Yolov5 + Jetson Nano
 
