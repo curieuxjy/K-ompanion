@@ -51,19 +51,15 @@ http://www.yahboom.net/study/JETBOT
 
 #### Efficient Net- Pytorch (Lightining)
 
-https://github.com/arvcode/TensorRT_classifier_efficientNet
+[EfficientNet with Pytorch](https://ys-cs17.tistory.com/34)
 
-https://kamilake.com/306
-
-https://ys-cs17.tistory.com/34
+[TensorRT_classifier_efficientNet](https://github.com/arvcode/TensorRT_classifier_efficientNet)
 
 ### Other source
+[Jetson/리눅스에서 더 빠른 VNC 서버 사용하기](https://kamilake.com/306)
 
-https://github.com/DeepLabCut/DeepLabCut
-http://www.mackenziemathislab.org/dlc-modelzoo
+[DeepLabCut](https://github.com/DeepLabCut/DeepLabCut)- [Model Zoo](http://www.mackenziemathislab.org/dlc-modelzoo)
 
-https://github.com/DeepLabCut/DeepLabCut/blob/master/docs/installation.md
+[DogFaceNet](https://github.com/GuillaumeMougeot/DogFaceNet)
 
-https://github.com/GuillaumeMougeot/DogFaceNet
-
-https://github.com/Jinhyeok1489/hakathon
+[Hackathon edu](https://github.com/Jinhyeok1489/hakathon)
