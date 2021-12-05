@@ -10,6 +10,8 @@ Hackathon Repository
 |<img src="assets/cad1.png" width="250"/>|<img src="assets/cad2.png" width="250"/>|
 |<img src="assets/cad3.png" width="250"/>|<img src="assets/cad4.png" width="250"/>|
 
+<img src="assets/throw.gif" width="300"/>
+
 ## Goal : Dog Action dataset + Yolov5 + Jetson Nano
 
 ### Dataset
