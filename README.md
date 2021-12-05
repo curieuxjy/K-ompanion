@@ -31,6 +31,7 @@ http://www.yahboom.net/study/JETBOT
 ![](assets/slide2.PNG)
 ![](assets/slide3.PNG)
 ![](assets/slide4.PNG)
+![](assets/slide5.PNG)
 
 
 ### Other models we tried
