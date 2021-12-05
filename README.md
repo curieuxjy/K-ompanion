@@ -5,8 +5,8 @@ Hackathon Repository
 
 ## [Training Log and Result](https://wandb.ai/curieuxjy/YOLOv5?workspace=user-curieuxjy)
 
-![](assets/hdware (1).PNG)
-![](assets/hdware (2).PNG)
+![](./assets/hdware (1).PNG)
+![](./assets/hdware (2).PNG)
 
 ## Goal : Dog Action dataset + Yolov5 + Jetson Nano
 
@@ -25,10 +25,10 @@ http://www.yahboom.net/study/JETBOT
 - [JetsonYolo](https://github.com/amirhosseinh77/JetsonYolo/blob/main/JetsonYolo.py)
 - [yolov5-tensorrt](https://github.com/SeanAvery/yolov5-tensorrt)
 
-![](assets/slide (1).PNG)
-![](assets/slide (2).PNG)
-![](assets/slide (3).PNG)
-![](assets/slide (4).PNG)
+![](./assets/slide (1).PNG)
+![](./assets/slide (2).PNG)
+![](./assets/slide (3).PNG)
+![](./assets/slide (4).PNG)
 
 
 ### Other models we tried
