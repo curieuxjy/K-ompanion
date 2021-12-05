@@ -15,7 +15,17 @@ https://aihub.or.kr/aidata/34146
 
 http://www.yahboom.net/study/JETBOT
 
-### Retina Net
+
+### Yolo
+
+- [Yolov5](https://github.com/ultralytics/yolov5)
+- [JetsonYolo](https://github.com/amirhosseinh77/JetsonYolo/blob/main/JetsonYolo.py)
+- [yolov5-tensorrt](https://github.com/SeanAvery/yolov5-tensorrt)
+
+
+### Other models we tried
+
+#### Retina Net
 
 `python keras_retinanet/bin/train.py --gpu=0 --epochs=10 --steps=1000 --workers=0 csv .\csv\action.csv .\csv\action_mapping.csv`
 
@@ -28,7 +38,7 @@ http://www.yahboom.net/study/JETBOT
 
 [Keras Model을 TensorRT로 변환하기](https://hagler.tistory.com/188)
 
-### Pytorch (Lightining) - Efficient Net
+#### Efficient Net- Pytorch (Lightining)
 
 https://github.com/arvcode/TensorRT_classifier_efficientNet
 
