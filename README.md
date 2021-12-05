@@ -1,9 +1,11 @@
 # K-ompanion
 Hackathon Repository
 
-## [TRAINING](https://colab.research.google.com/drive/1ylJkBkTyJKYme370JfXaRW_AW5xW82rz?usp=sharing)
+## [TRAINING Notebook](https://colab.research.google.com/drive/1ylJkBkTyJKYme370JfXaRW_AW5xW82rz?usp=sharing)
 
-## Goal : CV Model + ONNX + TenssorRT + Jetson Nano
+## [Training Log and Result](https://wandb.ai/curieuxjy/YOLOv5?workspace=user-curieuxjy)
+
+## Goal : Dog Action dataset + Yolov5 + Jetson Nano
 
 ### Dataset
 
