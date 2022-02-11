@@ -1,6 +1,8 @@
 # K-ompanion
 [AI ROBOT HACKATHON MAGOK 2021](https://m-hackathon.tistory.com/) Repository
 
+Team members: 이정연, 황승규, 신홍철, 양희태
+
 ## [TRAINING Notebook](https://colab.research.google.com/drive/1ylJkBkTyJKYme370JfXaRW_AW5xW82rz?usp=sharing) - Google Colab
 
 ## [Training Log and Result](https://wandb.ai/curieuxjy/YOLOv5?workspace=user-curieuxjy) - WandB
