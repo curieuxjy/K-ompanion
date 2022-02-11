@@ -1,4 +1,4 @@
-# K-ompanion <img align="right" width="15%" height="15%" src="./assets/team_photo.jpg">
+# K-ompanion <img align="right" width="30%" height="30%" src="./assets/team_photo.jpg">
 [AI ROBOT HACKATHON MAGOK 2021](https://m-hackathon.tistory.com/) Repository
 
 Team members: 이정연, 황승규, 신홍철, 양희태
