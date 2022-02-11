@@ -1,5 +1,5 @@
 # K-ompanion
-Hackathon Repository
+[AI ROBOT HACKATHON MAGOK 2021](https://m-hackathon.tistory.com/) Repository
 
 ## [TRAINING Notebook](https://colab.research.google.com/drive/1ylJkBkTyJKYme370JfXaRW_AW5xW82rz?usp=sharing) - Google Colab
 
